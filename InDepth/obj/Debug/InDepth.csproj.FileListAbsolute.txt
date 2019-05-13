@@ -1,0 +1,7 @@
+C:\Bo Han\Learning\InDepth\InDepth\InDepth\bin\Debug\InDepth.exe.config
+C:\Bo Han\Learning\InDepth\InDepth\InDepth\bin\Debug\InDepth.exe
+C:\Bo Han\Learning\InDepth\InDepth\InDepth\bin\Debug\InDepth.pdb
+C:\Bo Han\Learning\InDepth\InDepth\InDepth\obj\Debug\InDepth.csprojAssemblyReference.cache
+C:\Bo Han\Learning\InDepth\InDepth\InDepth\obj\Debug\InDepth.csproj.CoreCompileInputs.cache
+C:\Bo Han\Learning\InDepth\InDepth\InDepth\obj\Debug\InDepth.exe
+C:\Bo Han\Learning\InDepth\InDepth\InDepth\obj\Debug\InDepth.pdb
